@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yash-gif
-- 👀 I’m interested in ... data analysts , machine learning , web development , problem solving
-- 🌱 I’m currently learning ... deep learning
-- 💞️ I’m looking to collaborate on ... machine learning projects
+- 👀 I have 3+ years of exprienced in ... Full stack development , problem solving
+- 💞️ I’m looking to collaborate on ... Backend and frontend projects
 - 📫 How to reach me ... you can reach me at yashrastogi201@gmail.com
 
 <!---
