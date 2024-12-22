@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yash-rastogi
-- 👀 I have 3+ years of exprienced in ... Full stack development , problem solving
+- 👀 I have 3+ years of exprienced in ... Full stack development (MERN Stack, Java, Spring boot) , problem solving
 - 💞️ I’m looking to collaborate on ... Backend and frontend projects
 - 📫 How to reach me ... you can reach me at yashrastogi201@gmail.com
 
